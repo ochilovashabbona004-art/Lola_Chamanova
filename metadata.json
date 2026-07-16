@@ -1,0 +1,6 @@
+{
+  "name": "Lola Chamanova Portfolio",
+  "description": "Ingliz tili o'qituvchisi Lola Chamanova uchun maxsus va interaktiv portfolio hamda biografik sayt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
